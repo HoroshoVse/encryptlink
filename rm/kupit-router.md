@@ -7,8 +7,10 @@ coverY: 0
 
 # Купить роутер
 
-[OZON](https://www.ozon.ru/seller/encrypttech-2761208/elektronika-15500/?miniapp=seller_2761208)
+[OZON](https://www.ozon.ru/product/router-wi-fi-s-openwrt-2790974665/)
 
 [Wildberries](https://www.wildberries.ru/seller/250005498)
+
+[Я.Маркет](https://market.yandex.ru/card/router-wi-fi-s-openwrt/4617526828?)
 
 [Tochka Store](https://checkout.tochka.com/encrypttech)
