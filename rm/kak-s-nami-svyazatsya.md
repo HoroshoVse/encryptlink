@@ -12,6 +12,6 @@ Telergam:
 
 E-mail
 
-> support@encryptlink.net
+> support@encrypt-t.ru
 
 График работы нашей технической поддержки свободный, специалисты стараются ответить как можно скорее.
