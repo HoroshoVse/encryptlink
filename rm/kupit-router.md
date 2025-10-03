@@ -13,4 +13,4 @@ coverY: 0
 
 [Я.Маркет](https://market.yandex.ru/card/router-wi-fi-s-openwrt/4617526828?)
 
-[Tochka Store](https://checkout.tochka.com/encrypttech)
+[Tochka Store](https://checkout.tochka.com/encrypttech), [TG](https://t.me/yLNzP8GN82rmD4VpDIln5Zklpq4n_bot/storeapp)
