@@ -10,6 +10,10 @@ Telergam:
 
 {% embed url="https://t.me/encrypttechbot" %}
 
+Чат:
+
+{% embed url="https://encrypt-t.ru/support/" %}
+
 E-mail
 
 > support@encrypt-t.ru
